@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-"Name: Majid" 
-"Email:irtazamajid072@ucp.edu.pk"
-Faculty ofInformation Technology
-=======
-"Name:Irtaza"
+"Name:Irtaza Majid"
 "Email:irtazamajid072@ucp.edu.pk"
 Faculty of Informatio Technology
->>>>>>> 2a5e0ca50c67b6cc2f275b0f7f68853888efbb26
 UCP
