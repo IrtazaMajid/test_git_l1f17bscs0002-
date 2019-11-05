@@ -1,1 +1,4 @@
-"Name:Irtaza Majid" 
+"Name: Majid" 
+"Email:irtazamajid072@ucp.edu.pk"
+Faculty ofInformation Technology
+UCP
